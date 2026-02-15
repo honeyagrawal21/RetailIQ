@@ -1,2 +1,2 @@
-# RetailIQ
-AI-Powered Retail Demand Forecasting &amp; Pricing Intelligence Platform.
+
+# AI-Powered Retail Demand Forecasting &amp; Pricing Intelligence Platform.
